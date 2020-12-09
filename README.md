@@ -13,5 +13,5 @@ A discord clone created with React and Redux for front-end, firebase for back-en
 Access current build here:
 https://mydiscord-d1f09.web.app/
 
-##Main UI
-<img src = https://github.com/kevCheong/ReeTech/blob/master/sample/homepage.png> </img>
+### Main UI
+<img src = https://github.com/kevCheong/my-discord/blob/master/accord.png> </img>
