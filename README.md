@@ -1,4 +1,4 @@
-A discord clone created with React and Redux. (WIP)
+A discord clone created with React and Redux for front-end, firebase for back-end related tasks (WIP)
 
 
 ### Functionality to do list:
